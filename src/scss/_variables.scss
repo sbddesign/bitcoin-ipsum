@@ -1,0 +1,18 @@
+// Colors
+$color-orange: #ff9500;
+$color-blue: #00A7A7;
+$color-gray-faint: #999;
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,600;1,300;1,600&display=swap');
+$font-main: 'IBM Plex Sans', sans-serif;
+
+// Sizes
+$size-medium: 768px;
+$size-large: 1024px;
+$size-xlarge: 1200px;
+
+// Media Queries
+$medium-up: 'screen and (min-width: #{$size-medium})';
+$large-up: 'screen and (min-width: #{$size-large})';
+$xlarge-up: 'screen and (min-width: #{$size-xlarge})';
