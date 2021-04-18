@@ -45,11 +45,19 @@ export default {
     font-size: 2rem;
     margin-top: 0;
     margin-bottom: 1rem;
+    padding: 1rem 0 0;
 
     a {
       color: #000;
       text-decoration: none;
       font-weight: 300;
+      background-image: url('assets/bitcoin-ipsum-logotype.svg');
+      background-position: center;
+      background-size: cover;
+      text-indent: -999rem;
+      display: block;
+      height: 0;
+      padding-top: percentage(160 / 800);
     }
   }
 
