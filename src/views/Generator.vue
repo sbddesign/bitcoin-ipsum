@@ -87,7 +87,12 @@
             'soft fork', 'full node', 'miner', 'mining', 'block reward', 'halvening', 'Bitcoin Improvement Proposal',
             'sats', 'satoshis', "stacking sats", "decentralized", "cryptocurrency", "double-spend problem",
             "block height", "peer-to-peer", "proof-of-work", "digital signature", "electronic cash", "timestamp server",
-            "SHA-256", "Merkle Tree", "public key", "private key", "key pair", "consensus", "mempool"
+            "SHA-256", "Merkle Tree", "public key", "private key", "key pair", "consensus", "mempool", "taproot", "full RBF", 
+            "non-replacement", "justice transaction", 'eltoo', 'channels', 'multi-sig', 'single-sig', 'tapscript', 'musig2', 'MPP',
+            'key-tweak', 'Schnorr', 'HTLC', 'trust minimized', 'witness', 'federation' , 'Chaumian', 'preimage', 'gossip', 'IBD',
+            'key aggregation', 'multi-party', 'validation', 'LSP', 'liquidity', 'feature bit', 'SIGHASH', 'CHECKSIG', 'commitment', 
+            'timelock', 'sovereign', 'activation', 'CLTV', 'bits', 'signet', 'testnet', 'mainnet', 'seed', 'M-of-N', '2-of-2',
+            'OP_RETURN', 'verify', 'delegate'
         ]);
 
         if(this.memes) words.push([
